@@ -10,7 +10,7 @@ To design and implement a centralized management system for multiple 3D printers
  - Network Optimization
  - Raspberry Pi and Linux Administration
  - Web Interface Deployment
-Remote Troubleshooting and Automation
+ - Remote Troubleshooting and Automation
 
 ### Tools Used
 
