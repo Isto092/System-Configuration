@@ -1,9 +1,8 @@
 # System Configuration
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+To design and implement a centralized management system for multiple 3D printers using Raspberry Pi and OctoPrint, aimed at streamlining operations, enabling remote monitoring and control, and enhancing production efficiency through network optimization and real-time status tracking.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
