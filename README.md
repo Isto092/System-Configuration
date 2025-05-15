@@ -5,13 +5,12 @@
 To design and implement a centralized management system for multiple 3D printers using Raspberry Pi and OctoPrint, aimed at streamlining operations, enabling remote monitoring and control, and enhancing production efficiency through network optimization and real-time status tracking.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+ - System Configuration and Integration
+ - Network Optimization
+ - Raspberry Pi and Linux Administration
+ - Web Interface Deployment
+Remote Troubleshooting and Automation
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
