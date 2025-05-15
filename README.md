@@ -13,17 +13,12 @@ To design and implement a centralized management system for multiple 3D printers
 Remote Troubleshooting and Automation
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+ - Raspberry Pi – As the central hardware platform for managing the 3D printers.
+OctoPrint – For remote monitoring, management, and control of 3D print jobs.
+ - Web Browser Interface – To access OctoPrint’s dashboard for real-time status updates and controls.
+ - SSH (Secure Shell) – For remote command-line access to the Raspberry Pi for setup and troubleshooting.
+ - Wi-Fi Router or Ethernet Network – To provide stable network connectivity for remote access and printer communication.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
