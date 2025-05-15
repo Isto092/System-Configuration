@@ -25,7 +25,7 @@ Remote Troubleshooting and Automation
  
 Prepare the Raspberry Pi:
  - Installed Raspberry Pi OS.
- - Connected the Raspberry Pi to the network  via Wi-Fi or Ethernet.
+ - Connected the Raspberry Pi to the network  via Ethernet.
 
 Install OctoPrint:
  - Used OctoPi (a pre-configured image for OctoPrint on Raspberry Pi).
